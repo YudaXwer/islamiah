@@ -4,8 +4,8 @@ export default function Footer() {
       <footer className="p-3 text-center mb-20">
         <p>
           Dibuat dengan ❤ oleh{' '}
-          <a href="https://fatiharridho.my.id" target="_blank">
-            Fatih Arridho
+          <a href="https://yudaxwer.xyz" target="_blank">
+            Yuda Xwer
           </a>{' '}
           {/* untuk Sweet heartnya */}
         </p>
